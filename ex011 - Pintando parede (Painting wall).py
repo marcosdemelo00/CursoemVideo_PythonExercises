@@ -1,0 +1,5 @@
+print('Let\'s calculate how many ink do you will need to paint a wall.')
+w = float(input('Please, enter the wall\'s Width in meters: '))
+h = float(input('Now enter the Height of the wall, in meters: '))
+print('Considering that 1 liter of ink paints 2 square meters.')
+print('You will need \033[1m {:.2f} liter\033[0m of ink to paint \033[1m{:.2f} square meters\033[0m of wall'. format(w * h / 2, w * h))
