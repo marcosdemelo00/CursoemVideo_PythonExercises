@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cc48a77-4264-4ac6-b532-da673f449eb0" name="Default Changelist" comment="" />
+    <list default="true" id="9cc48a77-4264-4ac6-b532-da673f449eb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a00hNfoBnTB42WKY4Udl6SyYq3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +31,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex001 - Deixando tudo pronto (Getting everything ready)">
-    <configuration name="ex001 - Deixando tudo pronto (Getting everything ready)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors)">
+    <configuration name="ex040 - Aquele clássico da Média (Average, that classic)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex001 - Deixando tudo pronto (Getting everything ready).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex040 - Aquele clássico da Média (Average, that classic).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex033 - Maior e Menor valor (Highest and lowest value)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex042 - Analizando Triângulos v2.0 (Triangle Analyzer v2.0)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex033 - Maior e Menor valor (Highest and lowest value).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex042 - Analizando Triângulos v2.0 (Triangle Analyzer v2.0).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex034 - Aumentos Múltiplos (Multiple Raises)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex043 - Índice de Massa Corporal (Body Mass Index)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex034 - Aumentos Múltiplos (Multiple Raises).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex043 - Índice de Massa Corporal (Body Mass Index).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex035 - Analisando Triângulo v1.0 (Analyzing Triangle v1.0)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex044 - Gerenciador de Pagamentos (Payment Manager)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex035 - Analisando Triângulo v1.0 (Analyzing Triangle v1.0).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex044 - Gerenciador de Pagamentos (Payment Manager).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex035 - [Extra] Cores (Colors)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="M:\Documents\Programação\Curso em Vídeo\ex035 - [Extra] Cores (Colors).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex001 - Deixando tudo pronto (Getting everything ready)" />
-        <item itemvalue="Python.ex035 - [Extra] Cores (Colors)" />
-        <item itemvalue="Python.ex035 - Analisando Triângulo v1.0 (Analyzing Triangle v1.0)" />
-        <item itemvalue="Python.ex034 - Aumentos Múltiplos (Multiple Raises)" />
-        <item itemvalue="Python.ex033 - Maior e Menor valor (Highest and lowest value)" />
+        <item itemvalue="Python.ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors)" />
+        <item itemvalue="Python.ex044 - Gerenciador de Pagamentos (Payment Manager)" />
+        <item itemvalue="Python.ex043 - Índice de Massa Corporal (Body Mass Index)" />
+        <item itemvalue="Python.ex042 - Analizando Triângulos v2.0 (Triangle Analyzer v2.0)" />
+        <item itemvalue="Python.ex040 - Aquele clássico da Média (Average, that classic)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +165,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="308" y="42" key="#Inspections" timestamp="1586469789651">
+      <screen x="66" y="0" width="1300" height="768" />
+    </state>
+    <state x="308" y="42" key="#Inspections/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586469789651" />
     <state x="472" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585861578761">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
@@ -163,30 +177,34 @@
       <screen x="66" y="0" width="1300" height="768" />
     </state>
     <state x="396" y="111" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1585944033577" />
-    <state width="1301" height="210" key="GridCell.Tab.0.bottom" timestamp="1586010898094">
+    <state width="1301" height="153" key="GridCell.Tab.0.bottom" timestamp="1586500689526">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="210" key="GridCell.Tab.0.bottom/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586010898094" />
-    <state width="1301" height="210" key="GridCell.Tab.0.center" timestamp="1586010898093">
+    <state width="1301" height="153" key="GridCell.Tab.0.bottom/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689526" />
+    <state width="1301" height="153" key="GridCell.Tab.0.center" timestamp="1586500689525">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="210" key="GridCell.Tab.0.center/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586010898093" />
-    <state width="1301" height="210" key="GridCell.Tab.0.left" timestamp="1586010898093">
+    <state width="1301" height="153" key="GridCell.Tab.0.center/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689525" />
+    <state width="1301" height="153" key="GridCell.Tab.0.left" timestamp="1586500689525">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="210" key="GridCell.Tab.0.left/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586010898093" />
-    <state width="1301" height="210" key="GridCell.Tab.0.right" timestamp="1586010898094">
+    <state width="1301" height="153" key="GridCell.Tab.0.left/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689525" />
+    <state width="1301" height="153" key="GridCell.Tab.0.right" timestamp="1586500689525">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="210" key="GridCell.Tab.0.right/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586010898094" />
-    <state x="196" y="52" key="SettingsEditor" timestamp="1585858525508">
+    <state width="1301" height="153" key="GridCell.Tab.0.right/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689525" />
+    <state x="196" y="52" key="SettingsEditor" timestamp="1586486134416">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state x="196" y="52" key="SettingsEditor/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1585858525508" />
-    <state x="412" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1586009009265">
+    <state x="196" y="52" key="SettingsEditor/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586486134416" />
+    <state x="412" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1586494839136">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state x="412" y="207" key="com.intellij.ide.util.TipDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586009009265" />
+    <state x="412" y="207" key="com.intellij.ide.util.TipDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586494839136" />
+    <state x="525" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586355127412">
+      <screen x="66" y="0" width="1300" height="768" />
+    </state>
+    <state x="525" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586355127412" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1585860584498">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
