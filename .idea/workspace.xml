@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc48a77-4264-4ac6-b532-da673f449eb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +30,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
-  <component name="RunManager" selected="Python.ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors)">
-    <configuration name="ex040 - Aquele clássico da Média (Average, that classic)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex056 - Analisador Completo (Complete Analyzer)">
+    <configuration name="ex052 - Números Primos (Prime Numbers)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex040 - Aquele clássico da Média (Average, that classic).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex052 - Números Primos (Prime Numbers).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex042 - Analizando Triângulos v2.0 (Triangle Analyzer v2.0)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex053 - Detector de Palíndromo (Palindrome Detector)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex042 - Analizando Triângulos v2.0 (Triangle Analyzer v2.0).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex053 - Detector de Palíndromo (Palindrome Detector).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex043 - Índice de Massa Corporal (Body Mass Index)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex054 - Grupo da Maioridade (Adulthood Group)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex043 - Índice de Massa Corporal (Body Mass Index).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex054 - Grupo da Maioridade (Adulthood Group).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex044 - Gerenciador de Pagamentos (Payment Manager)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex055 - Maior e Menor da sequência (Sequence's Major and Minor)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex044 - Gerenciador de Pagamentos (Payment Manager).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex055 - Maior e Menor da sequência (Sequence's Major and Minor).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex056 - Analisador Completo (Complete Analyzer)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex056 - Analisador Completo (Complete Analyzer).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex045 - GAME Pedra, Papel e Tesoura (Rock-Paper-Scissors)" />
-        <item itemvalue="Python.ex044 - Gerenciador de Pagamentos (Payment Manager)" />
-        <item itemvalue="Python.ex043 - Índice de Massa Corporal (Body Mass Index)" />
-        <item itemvalue="Python.ex042 - Analizando Triângulos v2.0 (Triangle Analyzer v2.0)" />
-        <item itemvalue="Python.ex040 - Aquele clássico da Média (Average, that classic)" />
+        <item itemvalue="Python.ex056 - Analisador Completo (Complete Analyzer)" />
+        <item itemvalue="Python.ex055 - Maior e Menor da sequência (Sequence's Major and Minor)" />
+        <item itemvalue="Python.ex054 - Grupo da Maioridade (Adulthood Group)" />
+        <item itemvalue="Python.ex053 - Detector de Palíndromo (Palindrome Detector)" />
+        <item itemvalue="Python.ex052 - Números Primos (Prime Numbers)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,30 +177,38 @@
       <screen x="66" y="0" width="1300" height="768" />
     </state>
     <state x="396" y="111" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1585944033577" />
-    <state width="1301" height="153" key="GridCell.Tab.0.bottom" timestamp="1586500689526">
+    <state x="435" y="10" key="#ex054_-_Grupo_da_Maioridade_(Adulthood_Group)" timestamp="1586619548877">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="153" key="GridCell.Tab.0.bottom/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689526" />
-    <state width="1301" height="153" key="GridCell.Tab.0.center" timestamp="1586500689525">
+    <state x="435" y="10" key="#ex054_-_Grupo_da_Maioridade_(Adulthood_Group)/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586619548877" />
+    <state x="158" y="92" width="1116" height="584" key="DiffContextDialog" timestamp="1586643423462">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="153" key="GridCell.Tab.0.center/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689525" />
-    <state width="1301" height="153" key="GridCell.Tab.0.left" timestamp="1586500689525">
+    <state x="158" y="92" width="1116" height="584" key="DiffContextDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586643423462" />
+    <state width="385" height="662" key="GridCell.Tab.0.bottom" timestamp="1586658353594">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="153" key="GridCell.Tab.0.left/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689525" />
-    <state width="1301" height="153" key="GridCell.Tab.0.right" timestamp="1586500689525">
+    <state width="385" height="662" key="GridCell.Tab.0.bottom/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
+    <state width="385" height="662" key="GridCell.Tab.0.center" timestamp="1586658353594">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="1301" height="153" key="GridCell.Tab.0.right/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586500689525" />
-    <state x="196" y="52" key="SettingsEditor" timestamp="1586486134416">
+    <state width="385" height="662" key="GridCell.Tab.0.center/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
+    <state width="385" height="662" key="GridCell.Tab.0.left" timestamp="1586658353594">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state x="196" y="52" key="SettingsEditor/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586486134416" />
-    <state x="412" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1586494839136">
+    <state width="385" height="662" key="GridCell.Tab.0.left/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
+    <state width="385" height="662" key="GridCell.Tab.0.right" timestamp="1586658353594">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state x="412" y="207" key="com.intellij.ide.util.TipDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586494839136" />
+    <state width="385" height="662" key="GridCell.Tab.0.right/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
+    <state x="196" y="52" key="SettingsEditor" timestamp="1586640587687">
+      <screen x="66" y="0" width="1300" height="768" />
+    </state>
+    <state x="196" y="52" key="SettingsEditor/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586640587687" />
+    <state x="412" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1586658403586">
+      <screen x="66" y="0" width="1300" height="768" />
+    </state>
+    <state x="412" y="207" key="com.intellij.ide.util.TipDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658403586" />
     <state x="525" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586355127412">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
@@ -209,9 +217,9 @@
       <screen x="66" y="0" width="1300" height="768" />
     </state>
     <state width="600" height="424" key="javadoc.popup/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1585860584498" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586009302195">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586620461562">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586009302195" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586620461562" />
   </component>
 </project>
