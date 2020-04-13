@@ -35,8 +35,8 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
-  <component name="RunManager" selected="Python.ex056 - Analisador Completo (Complete Analyzer)">
-    <configuration name="ex052 - Números Primos (Prime Numbers)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex064 - Tratando vários valores v1.0 (Processing various values v1.0)">
+    <configuration name="ex061 - Progressão Aritimética v2.0 (Arithmetic Progression v2.0)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex052 - Números Primos (Prime Numbers).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex061 - Progressão Aritimética v2.0 (Arithmetic Progression v2.0).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex053 - Detector de Palíndromo (Palindrome Detector)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex062 - Super Progressão Aritimétiva v3.0 (Super Arithmetic Progression v3.0)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex053 - Detector de Palíndromo (Palindrome Detector).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex062 - Super Progressão Aritimétiva v3.0 (Super Arithmetic Progression v3.0).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex054 - Grupo da Maioridade (Adulthood Group)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex063 - Sequência de Fibonacci v1.0 (Fibonacci Sequence v1.0)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex054 - Grupo da Maioridade (Adulthood Group).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex063 - Sequência de Fibonacci v1.0 (Fibonacci Sequence v1.0).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex055 - Maior e Menor da sequência (Sequence's Major and Minor)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex064 - Tratando vários valores v1.0 (Processing various values v1.0)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex055 - Maior e Menor da sequência (Sequence's Major and Minor).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex064 - Tratando vários valores v1.0 (Processing various values v1.0).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex056 - Analisador Completo (Complete Analyzer)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex065 - Maior e Menor valores (Highest and lower values)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex056 - Analisador Completo (Complete Analyzer).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex065 - Maior e Menor valores (Highest and lower values).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex056 - Analisador Completo (Complete Analyzer)" />
-        <item itemvalue="Python.ex055 - Maior e Menor da sequência (Sequence's Major and Minor)" />
-        <item itemvalue="Python.ex054 - Grupo da Maioridade (Adulthood Group)" />
-        <item itemvalue="Python.ex053 - Detector de Palíndromo (Palindrome Detector)" />
-        <item itemvalue="Python.ex052 - Números Primos (Prime Numbers)" />
+        <item itemvalue="Python.ex064 - Tratando vários valores v1.0 (Processing various values v1.0)" />
+        <item itemvalue="Python.ex065 - Maior e Menor valores (Highest and lower values)" />
+        <item itemvalue="Python.ex063 - Sequência de Fibonacci v1.0 (Fibonacci Sequence v1.0)" />
+        <item itemvalue="Python.ex062 - Super Progressão Aritimétiva v3.0 (Super Arithmetic Progression v3.0)" />
+        <item itemvalue="Python.ex061 - Progressão Aritimética v2.0 (Arithmetic Progression v2.0)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,30 +185,30 @@
       <screen x="66" y="0" width="1300" height="768" />
     </state>
     <state x="158" y="92" width="1116" height="584" key="DiffContextDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586643423462" />
-    <state width="385" height="662" key="GridCell.Tab.0.bottom" timestamp="1586658353594">
+    <state width="436" height="662" key="GridCell.Tab.0.bottom" timestamp="1586757713840">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="385" height="662" key="GridCell.Tab.0.bottom/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
-    <state width="385" height="662" key="GridCell.Tab.0.center" timestamp="1586658353594">
+    <state width="436" height="662" key="GridCell.Tab.0.bottom/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586757713840" />
+    <state width="436" height="662" key="GridCell.Tab.0.center" timestamp="1586757713840">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="385" height="662" key="GridCell.Tab.0.center/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
-    <state width="385" height="662" key="GridCell.Tab.0.left" timestamp="1586658353594">
+    <state width="436" height="662" key="GridCell.Tab.0.center/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586757713840" />
+    <state width="436" height="662" key="GridCell.Tab.0.left" timestamp="1586757713840">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="385" height="662" key="GridCell.Tab.0.left/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
-    <state width="385" height="662" key="GridCell.Tab.0.right" timestamp="1586658353594">
+    <state width="436" height="662" key="GridCell.Tab.0.left/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586757713840" />
+    <state width="436" height="662" key="GridCell.Tab.0.right" timestamp="1586757713840">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state width="385" height="662" key="GridCell.Tab.0.right/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658353594" />
+    <state width="436" height="662" key="GridCell.Tab.0.right/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586757713840" />
     <state x="196" y="52" key="SettingsEditor" timestamp="1586640587687">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
     <state x="196" y="52" key="SettingsEditor/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586640587687" />
-    <state x="412" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1586658403586">
+    <state x="412" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1586659290144">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state x="412" y="207" key="com.intellij.ide.util.TipDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586658403586" />
+    <state x="412" y="207" key="com.intellij.ide.util.TipDialog/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586659290144" />
     <state x="525" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586355127412">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
@@ -217,9 +217,9 @@
       <screen x="66" y="0" width="1300" height="768" />
     </state>
     <state width="600" height="424" key="javadoc.popup/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1585860584498" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586620461562">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586723938125">
       <screen x="66" y="0" width="1300" height="768" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586620461562" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/66.0.1300.768/1366.0.1360.768@66.0.1300.768" timestamp="1586723938125" />
   </component>
 </project>
