@@ -5,12 +5,12 @@ mostre a média entre todos os valores e qual foi o maior e o menor valores lido
 programa deve perguntar ao usuário se ele que ou não continuar a digitar valores.
 '''
 def rint(t):
-    try:
-        i = int(input('{}'.format(t)).strip())
-        return i
-    except:
-        print('It\'s not a integer.')
-        rint(t)
+    while True:
+        try:
+            i = int(input('{}'.format(t)).strip())
+            return i
+        except:
+            print('It\'s not a integer.')
 
 
 keep = 'yes'
